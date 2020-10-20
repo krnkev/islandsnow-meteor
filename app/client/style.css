@@ -1,0 +1,15 @@
+
+.footer-background {
+    background-color: #white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+
+}
+.ui.borderless.menu {
+    background-color: #f7f7f7;
+    box-shadow: none;
+    border: none;
+    font-weight: bold;
+}
+
